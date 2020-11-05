@@ -1,4 +1,4 @@
-# How to run
+# How to Run
 
 Download https://github.com/bluecatoutside/Mars-One-The-Genesis/blob/master/Mars_One_decentralized_website.zip
 
@@ -8,7 +8,7 @@ There is only one file! Open index.html in your favorite browser.
 
 Browser: It may be necessary to avoid default browsers on phone (e.g. "HTML Viewer") and on desktop (i.e. "Internet Explorer").
 
-# In-game help
+# In-Game Help
 
 Left mouse button to go forwards.
 
