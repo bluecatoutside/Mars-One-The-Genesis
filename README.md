@@ -2,7 +2,7 @@
 
 Download https://github.com/bluecatoutside/Mars-One-The-Genesis/blob/master/Mars_One_decentralized_website.zip
 
-Decompress
+Decompress or unzip Mars_One_decentralized_website.zip.
 
 There is only one file! Open index.html in your favorite browser.
 
@@ -10,9 +10,9 @@ Browser: It may be necessary to avoid default browsers on phone (e.g. "HTML View
 
 # In-game help
 
-Left mouse button to go forwards
+Left mouse button to go forwards.
 
-Right mouse button to go backwards
+Right mouse button to go backwards.
 
 Drag mouse down to look up, down, left and right.
 
