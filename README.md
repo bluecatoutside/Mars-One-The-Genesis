@@ -4,7 +4,7 @@ To provide access to community created works. Such works were originally created
 
 # Concept
 
-Concepts are intellectual property an attribution is necessary. They are also great to share and you never know what feedback you will get. Some models or scenes are very simple but very relevant to this project. 
+Concepts are intellectual property and attribution is necessary. They are also great to share and you never know what feedback you will get. Some models or scenes are very simple but very relevant to this project. 
 
 # Production
 
