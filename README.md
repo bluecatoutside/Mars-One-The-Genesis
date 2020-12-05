@@ -1,20 +1,19 @@
-# How to Run
+# Purpose
 
-Download https://github.com/bluecatoutside/Mars-One-The-Genesis/blob/master/Mars_One_decentralized_website.zip
+To provide access to community created works. Such works were originally created for the purposes of being used in a software simulation, one for modelling and interactivity. Note the use of the Attribution 3.0 License. Please attribute works to Mars One's "Genesis" (a Mars colony simulation project) whenever there are no attribution instructions found in "Concept" and "Production" folders.
 
-Decompress or unzip Mars_One_decentralized_website.zip.
+# Concept
 
-There is only one file! Open index.html in your favorite browser.
+Concepts are intellectual property an attribution is necessary. They are also great to share and you never know what feedback you will get. Some models or scenes are very simple but very relevant to this project. 
 
-Browser: It may be necessary to avoid default browsers on phone (e.g. "HTML Viewer") and on desktop (i.e. "Internet Explorer").
+# Production
 
-# In-Game Help
+Completed works, for this project, work with a number of graphics engines. Ensuring models are fit for purpose, even when the simulation software is as varied as working in the browser or working on an Android tablet, requires a minimum of 3 files be produced. Files include:
 
-Left mouse button to go forwards.
+* .FBX file that, when imported into Unity, works as expected.
 
-Right mouse button to go backwards.
+* .BLEND file that is the equivalent of the .FBX file.
 
-Drag mouse to look up, down, left and right.
+* .BLEND file that abstractly shows 3D models as NURBS data.
 
-When stuck on a wall (including the pay wall): Try dragging a mouse left-right, with the right mouse button pressed!
-
+* Any file dependencies.
