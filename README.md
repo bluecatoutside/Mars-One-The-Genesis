@@ -1,6 +1,6 @@
 # Purpose
 
-To provide access to community created works. Such works were originally created for the purposes of being used in a software simulation, one for modelling and interactivity. Note the use of the Attribution 3.0 License. Please attribute works to Mars One's "Genesis" (a Mars colony simulation project) whenever there are no attribution instructions found in "Concept" and "Production" folders.
+To provide access to community created works. Such works were originally created for the purposes of being used in a software simulation, one for modelling and interactivity. Note the use of the Attribution 3.0 License. Please attribute works to Mars One's "Genesis" (a Mars colony simulation project) whenever there are no other attribution instructions found in "Concept" and "Production" folders.
 
 # Concept
 
