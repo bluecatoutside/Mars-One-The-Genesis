@@ -1,19 +1,17 @@
-# Purpose
+# Scene Definition
 
-To provide access to Mars One Genesis community created works and the necessary works licensed from Australia AI Pty Ltd (Australia). Such works were originally created for the purposes of being used in a software simulation. Note the application of the Attribution 3.0 License for all community created works. Please attribute works to Mars One's "Genesis" (a Mars colony simulation project) whenever there are no other attribution instructions found in "Concept" or "Production" folders.
+Using Blender projects, level of detail (LOD) is organized using a folder system. One level up uses a GLTF file export as an import to the Blender project at that level. E.g. kitchen_sink.gltf.
 
-# Concept
+# Collision Definition
 
-Concepts ("Concepts" folder) are intellectual property and attribution is necessary. They are also great to share and you never know what feedback you will get. Some models or scenes are very simple but very relevant to this project. 
+Hit boxes and (sometimes) meshes that resemble primitives are created. In practice, export the scene and the collision objects. A "diff" between exports of the scene without collision objects and the scene with collision objects will allow programs to identify collision objects. E.g. kitchen_sink.x3d is required to interpret kitchen_sink_C.x3d.
 
-# Production
+# File Type Overview
 
-Products ("Production" folder) are intellectual property and attribution is necessary. Completed works, for this project, work with a number of graphics engines. Ensuring models are fit for purpose, even when the simulation software is as varied as working in the browser or working on an Android tablet, requires a minimum of 3 files be produced. Files include:
+Overall, three file types are used.
 
-* .FBX file that, when imported into Unity, works as expected.
+* .GLTF file or the equivalent .GLB file.
 
-* .GLTF file that is the equivalent of the .FBX file.
+* .BLEND file is the edited working document and why you need Github login credentials.
 
-* .BLEND file that abstracts features to show 3D models as NURBS data.
-
-* Any external file dependencies, such as those containing texture or roughness data.
+* .X3D file is the file containing the data for constructing a world for CANNON.js physics.
